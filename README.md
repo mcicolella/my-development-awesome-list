@@ -3,7 +3,7 @@
 
 ### Contents
 
-_ [Algorithms](#algorithms)
+- [Algorithms](#algorithms)
 - [Blog](#blog)
 - [Databases](#databases)
 - [Frontend](#frontend)
