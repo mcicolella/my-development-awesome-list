@@ -4,8 +4,9 @@
 ### Contents
 
 - [Blog](#Blog)
-- [Database](#Database)
-- [Frontend](#Fronted)
+- [Databases](#databases)
+- [Frontend](#frontend)
+- [Libraries](#libraries)
 
 ## Blog
 
@@ -13,7 +14,7 @@
 * [Moreware Blog](http://www.moreware.org/wp/)
 
 
-## Database
+## Databases
 
 * [Free MySQL Hosting](https://www.freemysqlhosting.net/)
 
@@ -27,3 +28,8 @@
 * [VueJS — Tips & Best Practices](https://medium.com/js-dojo/vuejs-tips-best-practices-39d9962bb255)
 * [Vue2Leaflet](https://github.com/KoRiGaN/Vue2Leaflet)
 * [Web Performance 101](https://3perf.com/talks/web-perf-101/)
+
+
+## Libraries
+
+* [JGraphT](https://jgrapht.org/)
