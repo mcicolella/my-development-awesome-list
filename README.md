@@ -11,7 +11,8 @@
 
 ## Algorithms
 
-* [Java by Baeldung](https://www.baeldung.com/category/algorithms/)
+* [Java by Baeldung.com](https://www.baeldung.com/category/algorithms/)
+* [Java by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/code/)
 
 
 ## Blog
