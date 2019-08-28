@@ -3,10 +3,16 @@
 
 ### Contents
 
-- [Blog](#Blog)
+_ [Algorithms](#algorithms)
+- [Blog](#blog)
 - [Databases](#databases)
 - [Frontend](#frontend)
 - [Libraries](#libraries)
+
+## Algorithms
+
+* [Java by Baeldung](https://www.baeldung.com/category/algorithms/)
+
 
 ## Blog
 
