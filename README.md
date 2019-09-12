@@ -8,6 +8,7 @@
 - [Databases](#databases)
 - [Frontend](#frontend)
 - [Libraries](#libraries)
+- [Playgrounds](#playgrounds)
 
 ## Algorithms
 
@@ -40,3 +41,8 @@
 ## Libraries
 
 * [JGraphT](https://jgrapht.org/)
+
+
+## Playgrounds
+
+* [MySQL Tryit Editor](https://www.w3schools.com/sql/trymysql.asp?filename=trysql_func_mysql_datediff)
