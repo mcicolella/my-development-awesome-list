@@ -9,6 +9,8 @@
 - [Frontend](#frontend)
 - [Libraries](#libraries)
 - [Playgrounds](#playgrounds)
+  - [MySQL](#mysql)
+  - [Python](#python)
 
 ## Algorithms
 
@@ -45,4 +47,10 @@
 
 ## Playgrounds
 
+### MySQL
+
 * [MySQL Tryit Editor](https://www.w3schools.com/sql/trymysql.asp?filename=trysql_func_mysql_datediff)
+
+### Python
+
+* [Katacoda](https://www.katacoda.com/courses/python/playground)
