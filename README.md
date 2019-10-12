@@ -11,6 +11,7 @@
 - [Playgrounds](#playgrounds)
   - [MySQL](#mysql)
   - [Python](#python)
+- [Various](#various)
 
 ## Algorithms
 
@@ -55,3 +56,8 @@
 ### Python
 
 * [Katacoda](https://www.katacoda.com/courses/python/playground)
+
+
+## Various
+
+* [Timestamp Generator](https://timestampgenerator.com/)
