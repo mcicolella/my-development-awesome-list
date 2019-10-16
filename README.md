@@ -65,4 +65,5 @@
 
 ## Various
 
+* [FreeFormatter](https://www.freeformatter.com/)
 * [Timestamp Generator](https://timestampgenerator.com/)
