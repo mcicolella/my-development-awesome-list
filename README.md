@@ -13,6 +13,7 @@
   - [Frontend](#frontend)
   - [MySQL](#mysql)
   - [Python](#python)
+- [Scripts](#scripts)
 - [Various](#various)
 
 ## Algorithms
@@ -67,6 +68,11 @@
 ### Python
 
 * [Katacoda](https://www.katacoda.com/courses/python/playground)
+
+
+## Scripts
+
+* [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
 
 
 ## Various
