@@ -14,6 +14,7 @@
   - [MySQL](#mysql)
   - [Python](#python)
 - [Scripts](#scripts)
+- [Tutorials](#tutorials)
 - [Various](#various)
 
 ## Algorithms
@@ -73,6 +74,11 @@
 ## Scripts
 
 * [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
+
+
+## Tutorials
+
+* [The Complete JSON Tutorial – Quickly Learn JSON](https://www.codewall.co.uk/the-complete-json-tutorial-quickly-learn-json/?)
 
 
 ## Various
