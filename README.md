@@ -4,6 +4,7 @@
 ### Contents
 
 - [Algorithms](#algorithms)
+- [APIs](#apis)
 - [Blog](#blog)
 - [Databases](#databases)
 - [Frontend](#frontend)
@@ -21,6 +22,11 @@
 
 * [Java by Baeldung.com](https://www.baeldung.com/category/algorithms/)
 * [Java by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/code/)
+
+
+## APIs
+
+* [Public APIs](https://github.com/public-apis/public-apis)
 
 
 ## Blog
