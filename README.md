@@ -90,4 +90,5 @@
 ## Various
 
 * [FreeFormatter](https://www.freeformatter.com/)
+* [Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
 * [Timestamp Generator](https://timestampgenerator.com/)
