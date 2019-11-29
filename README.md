@@ -14,6 +14,8 @@
   - [Frontend](#frontend)
   - [MySQL](#mysql)
   - [Python](#python)
+  - [RegEx](#regex)
+  - [TypeScript](#typescript)
 - [Scripts](#scripts)
 - [Tutorials](#tutorials)
 - [Various](#various)
@@ -75,6 +77,10 @@
 ### Python
 
 * [Katacoda](https://www.katacoda.com/courses/python/playground)
+
+### RegEx
+
+* [Online regex tester and debugger](https://regex101.com/)
 
 ### TypeScript
 
