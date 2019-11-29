@@ -76,6 +76,10 @@
 
 * [Katacoda](https://www.katacoda.com/courses/python/playground)
 
+### TypeScript
+
+* [TypeScript Playground](https://www.typescriptlang.org/play/)
+
 
 ## Scripts
 
