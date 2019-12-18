@@ -100,7 +100,7 @@
 
 ## Various
 
-* [Cronttab Generator](https://crontab-generator.org/)
+* [Crontab Generator](https://crontab-generator.org/)
 * [Draw.io](https://www.draw.io/)
 * [FreeFormatter](https://www.freeformatter.com/)
 * [Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
