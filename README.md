@@ -100,8 +100,11 @@
 
 ## Various
 
+* [Codice Fiscale Generator](https://www.ilcodicefiscale.online/genera/)
+* [Credit card test environment](https://developer.monetaonline.it/it/Ambiente-di-test/Carte-di-Credito)
 * [Crontab Generator](https://crontab-generator.org/)
 * [Draw.io](https://www.draw.io/)
 * [FreeFormatter](https://www.freeformatter.com/)
+* [IBAN Test](https://it.iban.com/testibans)
 * [Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
 * [Timestamp Generator](https://timestampgenerator.com/)
