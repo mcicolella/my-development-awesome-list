@@ -47,6 +47,7 @@
 
 * [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
 * [Flexbox- the ultimate css flex cheatsheet with animations](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/)
+* [Flexbox Patterns](https://www.flexboxpatterns.com/)
 * [Frontend Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 * [JSON query tool](https://www.jsonquerytool.com/)
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
