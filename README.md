@@ -40,6 +40,7 @@
 
 ## Blog
 
+* [Java Boss](https://www.javaboss.it/)
 * [Lup Yuen Lee 李立源 Techie and Educator in IoT](https://medium.com/@ly.lee)
 * [Moreware Blog](http://www.moreware.org/wp/)
 
