@@ -70,7 +70,13 @@
 
 ## Images
 
+* [Foter](https://foter.com/)
+* [FreeImages](https://it.freeimages.com/)
 * [Images](https://bitnami.com/stacks)
+* [Morguefile](https://morguefile.com/)
+* [Open photo](http://openphoto.net/)
+* [Search Creative Commons](https://search.creativecommons.org/)
+* [Unsplash](https://unsplash.com/)
 
 
 ## Libraries
