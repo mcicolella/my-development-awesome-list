@@ -20,6 +20,7 @@
   - [Python](#python)
   - [RegEx](#regex)
   - [TypeScript](#typescript)
+- [Podcasts](#podcasts) 
 - [Scripts](#scripts)
 - [Tutorials](#tutorials)
 - [Various](#various)
@@ -118,6 +119,11 @@
 ## Scripts
 
 * [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
+
+
+## Podcasts
+
+* [Gitbar - Italian Developer Podcast](https://www.gitbar.it/)
 
 
 ## Tutorials
