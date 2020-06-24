@@ -13,6 +13,7 @@
 - [Images](#images)
 - [IoT](#images)
   - [MQTT](#mqtt)
+- [Kubernetes](#kubernetes)
 - [Libraries](#libraries)
 - [Playgrounds](#playgrounds)
   - [Frontend](#frontend)
@@ -87,6 +88,11 @@
 ### MQTT
 
 * [MQTT Stresser](https://github.com/inovex/mqtt-stresser)
+
+## Kubernetes
+
+* [Lens - Kubernetes IDE](https://k8slens.dev/)
+
 
 ## Libraries
 
