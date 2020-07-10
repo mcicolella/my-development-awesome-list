@@ -146,6 +146,7 @@
 
 ## Tutorials
 
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-it.md)
 * [The Complete JSON Tutorial – Quickly Learn JSON](https://www.codewall.co.uk/the-complete-json-tutorial-quickly-learn-json/?)
 
 
