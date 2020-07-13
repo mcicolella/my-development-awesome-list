@@ -91,6 +91,7 @@
 * [Morguefile](https://morguefile.com/)
 * [Open photo](http://openphoto.net/)
 * [Search Creative Commons](https://search.creativecommons.org/)
+* [Tabler Icons - SVG customizable icons](https://tablericons.com/)
 * [Unsplash](https://unsplash.com/)
 
 
