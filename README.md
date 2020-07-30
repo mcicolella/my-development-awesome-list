@@ -166,6 +166,7 @@
 * [GitHub profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 * [IBAN Test](https://it.iban.com/testibans)
 * [Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
+* [QRCode Monkey](https://www.qrcode-monkey.com/)
 * [Timestamp Generator](https://timestampgenerator.com/)
 * [Tabula - Extract tables from PDF](https://tabula.technology/)
 * [Verify iban - credit card - email - Italian Social Security Number](https://checkit.metadonors.it/)
