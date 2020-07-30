@@ -155,6 +155,7 @@
 
 ## Various
 
+* [Barcode Online Decoder](https://zxing.org/w/decode.jspx)
 * [Base64 Decode and Encode](https://www.base64decode.org/)
 * [Carbon Images of source code](https://carbon.now.sh/)
 * [Codice Fiscale Generator](https://www.ilcodicefiscale.online/genera/)
