@@ -144,6 +144,7 @@
 
 * [Fottuti Geni - Massimo Temporelli](https://storielibere.fm/fottuti-geni/)
 * [Gitbar - Italian Developer Podcast](https://www.gitbar.it/)
+* [Spaghetti Code](https://www.spaghetticode.online/podcast)
 * [TheVops Talks - Dario Tranchitella](https://www.spreaker.com/show/thevops-talks-dario-tranchitella)
 * [ZeroDays](https://zerodays.podbean.com/)
 
