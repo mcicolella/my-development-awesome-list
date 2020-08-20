@@ -168,6 +168,7 @@
 * [GitHub profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 * [IBAN Test](https://it.iban.com/testibans)
 * [Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
+* [Props2Yaml](http://www.allencoders.online/converters/props2yaml)
 * [QRCode Monkey](https://www.qrcode-monkey.com/)
 * [Timestamp Generator](https://timestampgenerator.com/)
 * [Tabula - Extract tables from PDF](https://tabula.technology/)
