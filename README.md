@@ -165,6 +165,7 @@
 
 * [Barcode Online Decoder](https://zxing.org/w/decode.jspx)
 * [Base64 Decode and Encode](https://www.base64decode.org/)
+* [Battery Life Calculator](https://www.geekstips.com/battery-life-calculator-sleep-mode/)
 * [Carbon Images of source code](https://carbon.now.sh/)
 * [Codice Fiscale Generator](https://www.ilcodicefiscale.online/genera/)
 * [Credit card test environment](https://developer.monetaonline.it/it/Ambiente-di-test/Carte-di-Credito)
