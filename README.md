@@ -55,6 +55,7 @@
 ## Converters
 
 * [Epoch Converter](https://www.epochconverter.com/)
+* [Online Bcrypt Hash Generator & Checker](https://bcrypt-generator.com/)
 
 
 ## Databases
