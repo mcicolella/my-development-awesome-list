@@ -89,7 +89,7 @@
 
 ## Git
 
-* [Git Command Explorer](https://gitexplorer.com/?fbclid=IwAR3Io5sTBs4pVXoj9Cet_zGi_tZHpRtCh7a3aio7pKbuWKtdUQ3VDwh0mwk)
+* [Git Command Explorer](https://gitexplorer.com/?fbclid=IwAR3Io5sTBs4pVXoj9Cet_zGi_tZHpRtCh7a3aio7pKbuWKtdUQ3VDwh0mwk) - [:movie_camera:](https://youtu.be/9ywfCgWz-fc)
 
 ## Images
 
