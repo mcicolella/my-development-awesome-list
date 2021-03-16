@@ -7,6 +7,7 @@
 - [APIs](#apis)
 - [Awesome Lists](#awesome-lists)
 - [Blogs](#blogs)
+- [Books](#books)
 - [Converters](#converters)
 - [Databases](#databases)
 - [DevOps](#devops)
@@ -50,6 +51,11 @@
 * [Java Boss](https://www.javaboss.it/)
 * [Lup Yuen Lee 李立源 Techie and Educator in IoT](https://medium.com/@ly.lee)
 * [Moreware Blog](http://www.moreware.org/wp/)
+
+
+## Books
+
+* [Clean Architecture: Guida per diventare abili progettisti di architetture software](https://amzn.to/30QMuo4)
 
 
 ## Converters
