@@ -180,6 +180,7 @@
 * [Base64 Decode and Encode](https://www.base64decode.org/)
 * [Battery Life Calculator](https://www.geekstips.com/battery-life-calculator-sleep-mode/)
 * [Carbon Images of source code](https://carbon.now.sh/)
+* [Checklist Generator](https://checklistgenerator.co/)
 * [Codice Fiscale Generator](https://www.ilcodicefiscale.online/genera/)
 * [Complete list of GitHub icons](https://gist.github.com/BenjaminHoegh/708c78c55553c9d897ef35446c4339dd)
 * [Credit card test environment](https://developer.monetaonline.it/it/Ambiente-di-test/Carte-di-Credito)
