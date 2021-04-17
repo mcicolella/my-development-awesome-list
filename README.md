@@ -74,6 +74,7 @@
 * [Free MySQL Hosting](https://www.freemysqlhosting.net/)
 * [RemoteMysql](https://remotemysql.com/)
 
+
 ## DevOps
 
 * [SSL Server Test](https://www.ssllabs.com/ssltest/index.html)
@@ -81,7 +82,8 @@
 
 ## Docker
 
-* [Haskell Dockerfile Linter](https://hadolint.github.io/hadolint/)
+* [Haskell Dockerfile Linter](https://hadolint.github.io/hadolint/) - [:movie_camera:](https://www.youtube.com/watch?v=Z174Q3om1es)
+* [Portainer](https://www.portainer.io/) - [:movie_camera:](https://www.youtube.com/watch?v=prqHoQrrQQE)
 
 
 ## Frontend
