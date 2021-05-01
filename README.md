@@ -61,6 +61,7 @@
 * [Clean code. Guida per diventare bravi artigiani nello sviluppo agile di software](https://amzn.to/3vx1Uwe)
 * [DevOps](https://amzn.to/38KvcgW)
 * [Docker: Sviluppare e rilasciare software tramite container](https://amzn.to/3tnv5j7)
+* [Microservices Patterns: With Examples in Java](https://amzn.to/335dUb3)
 
 
 ## Converters
