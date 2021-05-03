@@ -51,6 +51,7 @@
 * [Antonio Musarra's Blog - The ideal solution for a problem](https://www.dontesta.it/) (ITA-ENG)
 * [Java Boss](https://www.javaboss.it/) (ITA)
 * [Lup Yuen Lee 李立源 Techie and Educator in IoT](https://medium.com/@ly.lee)
+* [My Social Web](https://www.mysocialweb.it/)
 * [Moreware Blog](http://www.moreware.org/wp/)
 * [theRedCode](https://www.theredcode.it/) (ITA)
 
