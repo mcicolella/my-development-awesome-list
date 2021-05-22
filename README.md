@@ -200,6 +200,7 @@
 * [Tabula - Extract tables from PDF](https://tabula.technology/)
 * [Verify iban - credit card - email - Italian Social Security Number](https://checkit.metadonors.it/)
 * [Wkhtmltopdf - Html to PDF](https://github.com/wkhtmltopdf/wkhtmltopdf)
+* [YAML formatter](https://jsonformatter.org/yaml-formatter)
 
 
 ## Get in touch
