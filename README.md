@@ -115,6 +115,7 @@
 * [Images](https://bitnami.com/stacks)
 * [Morguefile](https://morguefile.com/)
 * [Open photo](http://openphoto.net/)
+* [PNG images and cliparts for web design](https://pngimg.com/)
 * [Search Creative Commons](https://search.creativecommons.org/)
 * [Tabler Icons - SVG customizable icons](https://tablericons.com/)
 * [Unsplash](https://unsplash.com/)
