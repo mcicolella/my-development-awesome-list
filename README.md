@@ -64,6 +64,7 @@
 
 ## Books
 
+* [Basi di dati. Tecnologie, architetture e linguaggi per database](https://amzn.to/3kwNHew)
 * [Clean Architecture: Guida per diventare abili progettisti di architetture software](https://amzn.to/30QMuo4)
 * [Clean code. Guida per diventare bravi artigiani nello sviluppo agile di software](https://amzn.to/3vx1Uwe)
 * [DevOps](https://amzn.to/38KvcgW)
