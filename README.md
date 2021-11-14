@@ -64,11 +64,11 @@
 
 ## Books
 
-* [Basi di dati. Tecnologie, architetture e linguaggi per database](https://amzn.to/3kwNHew)
+* [Basi di dati. Tecnologie, architetture e linguaggi per database](https://amzn.to/3kwNHew) - [:movie_camera:](https://youtu.be/1ic9Uoj4pU4)
 * [Clean Architecture: Guida per diventare abili progettisti di architetture software](https://amzn.to/30QMuo4)
 * [Clean code. Guida per diventare bravi artigiani nello sviluppo agile di software](https://amzn.to/3vx1Uwe)
 * [DevOps](https://amzn.to/38KvcgW)
-* [Docker: Sviluppare e rilasciare software tramite container](https://amzn.to/3tnv5j7)
+* [Docker: Sviluppare e rilasciare software tramite container](https://amzn.to/3tnv5j7) - [:movie_camera:](https://youtu.be/wIroVl00Agg)
 * [Microservices Patterns: With Examples in Java](https://amzn.to/335dUb3)
 
 
