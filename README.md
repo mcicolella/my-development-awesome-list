@@ -123,14 +123,21 @@
 
 ## Images
 
+* [Burst by Shopify](https://burst.shopify.com/)
 * [DrawKit Beautiful, free illustrations](https://www.drawkit.io/)
 * [Foter](https://foter.com/)
+* [Foodiesfeed](https://www.foodiesfeed.com/)  
 * [FreeImages](https://it.freeimages.com/)
 * [Images](https://bitnami.com/stacks)
+* [Little Visuals](https://littlevisuals.co/)
+* [Magdeleine](https://magdeleine.co/)
 * [Morguefile](https://morguefile.com/)
 * [Open photo](http://openphoto.net/)
+* [Pexels](https://www.pexels.com/)
 * [PNG images and cliparts for web design](https://pngimg.com/)
 * [Search Creative Commons](https://search.creativecommons.org/)
+* [Startup Stock Photos](https://startupstockphotos.com/)
+* [StockSnap.io](https://stocksnap.io/)
 * [Tabler Icons - SVG customizable icons](https://tablericons.com/)
 * [Unsplash](https://unsplash.com/)
 
