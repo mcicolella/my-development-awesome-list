@@ -221,6 +221,7 @@
 * [Complete list of GitHub icons](https://gist.github.com/BenjaminHoegh/708c78c55553c9d897ef35446c4339dd)
 * [Credit card test environment](https://developer.monetaonline.it/it/Ambiente-di-test/Carte-di-Credito)
 * [Crontab Generator](https://crontab-generator.org/)
+* [DeepL](https://www.deepl.com/translator)
 * [Draw.io](https://www.draw.io/)
 * [FreeFormatter](https://www.freeformatter.com/)
 * [GitHub profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
