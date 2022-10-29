@@ -61,6 +61,8 @@
 * [My Social Web](https://www.mysocialweb.it/)
 * [Moreware Blog](http://www.moreware.org/wp/)
 * [theRedCode](https://www.theredcode.it/) (ITA)
+* [The Weekly Dev](https://kevwe.com/weekly)
+
 
 
 ## Books
