@@ -20,7 +20,8 @@
 - [Frontend](#frontend)
 - [Hardware](#hardware)
 - [Git](#git)
-- [Images](#images)
+- [Graphics](#graphics)
+  - [Icons](#icons) 
 - [IoT](#images)
   - [MQTT](#mqtt)
 - [Kubernetes](#kubernetes)
@@ -117,15 +118,8 @@
 
 * [Git Command Explorer](https://gitexplorer.com/?fbclid=IwAR3Io5sTBs4pVXoj9Cet_zGi_tZHpRtCh7a3aio7pKbuWKtdUQ3VDwh0mwk) - [:movie_camera:](https://youtu.be/9ywfCgWz-fc)
 
-## Hardware
-  
-+ [LOBKIN hub usb 7 porte sdoppiatore usb con singoli interruttori on/off e luci a LED per PC, unità flash USB, mouse e altro](https://amzn.to/2Y9g4HP)
-* [Tccmebius TCC-S862-DE USB 2.0 a SATA IDE Dual-Bay HDD Disco Rigido Docking Station con Lettore di Schede e USB 2.0 Hub per 2.5 3.5 Pollice IDE SATA I / II / III HDD SSD](https://amzn.to/3jYNVuI)
-+ [TKDY Caricatore universale per laptop da 65W Adattatore CA da 19V 3.42A per HP Dell Toshiba IBM Lenovo Acer ASUS Samsung Sony Fujitsu Gateway Notebook Ultrabook Chromebook](https://amzn.to/3k1mXma)
-* [TP-Link Archer MR600 Router 4G+ Cat6 300Mbps, Wi-Fi AC1200 Dual Band, MicroSIM, Porta LAN/WAN Gigabit, Senza configurazione, Tecnologia TP-Link OneMesh](https://amzn.to/3BHGwWB)
-  
 
-## Images
+## Graphics
 
 * [Burst by Shopify](https://burst.shopify.com/)
 * [DrawKit Beautiful, free illustrations](https://www.drawkit.io/)
@@ -142,8 +136,21 @@
 * [Search Creative Commons](https://search.creativecommons.org/)
 * [Startup Stock Photos](https://startupstockphotos.com/)
 * [StockSnap.io](https://stocksnap.io/)
-* [Tabler Icons - SVG customizable icons](https://tablericons.com/)
 * [Unsplash](https://unsplash.com/)
+
+### Icons 
+
+* [3D Icons](https://3dicons.co/)
+* [Streamline](https://www.streamlinehq.com/icons)
+* [Tabler Icons - SVG customizable icons](https://tablericons.com/)
+
+
+## Hardware
+  
++ [LOBKIN hub usb 7 porte sdoppiatore usb con singoli interruttori on/off e luci a LED per PC, unità flash USB, mouse e altro](https://amzn.to/2Y9g4HP)
+* [Tccmebius TCC-S862-DE USB 2.0 a SATA IDE Dual-Bay HDD Disco Rigido Docking Station con Lettore di Schede e USB 2.0 Hub per 2.5 3.5 Pollice IDE SATA I / II / III HDD SSD](https://amzn.to/3jYNVuI)
++ [TKDY Caricatore universale per laptop da 65W Adattatore CA da 19V 3.42A per HP Dell Toshiba IBM Lenovo Acer ASUS Samsung Sony Fujitsu Gateway Notebook Ultrabook Chromebook](https://amzn.to/3k1mXma)
+* [TP-Link Archer MR600 Router 4G+ Cat6 300Mbps, Wi-Fi AC1200 Dual Band, MicroSIM, Porta LAN/WAN Gigabit, Senza configurazione, Tecnologia TP-Link OneMesh](https://amzn.to/3BHGwWB)
 
 
 ## IoT
