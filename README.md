@@ -102,6 +102,7 @@
 ## Frontend
 
 * [AnimatiSS](https://xsgames.co/animatiss/)
+* [CSS Generator](https://css-generator.netlify.app/)
 * [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
 * [Flexbox- the ultimate css flex cheatsheet with animations](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/)
 * [Flexbox Patterns](https://www.flexboxpatterns.com/)
