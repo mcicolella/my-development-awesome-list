@@ -102,10 +102,12 @@
 ## Frontend
 
 * [AnimatiSS](https://xsgames.co/animatiss/)
+* [Build with Flexbox](https://flexbox.buildwithreact.com/)
 * [CSS Generator](https://css-generator.netlify.app/)
 * [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
 * [Flexbox- the ultimate css flex cheatsheet with animations](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/)
 * [Flexbox Patterns](https://www.flexboxpatterns.com/)
+* [Flexy Boxes](https://the-echoplex.net/flexyboxes/?fixed-height=on&display=flex&flex-direction=column&flex-wrap=nowrap&justify-content=flex-start&align-items=flex-start&align-content=stretch&order%5B%5D=0&flex-grow%5B%5D=0&flex-shrink%5B%5D=1&flex-basis%5B%5D=auto&align-self%5B%5D=auto&order%5B%5D=0&flex-grow%5B%5D=0&flex-shrink%5B%5D=1&flex-basis%5B%5D=auto&align-self%5B%5D=auto&order%5B%5D=0&flex-grow%5B%5D=0&flex-shrink%5B%5D=1&flex-basis%5B%5D=auto&align-self%5B%5D=auto)
 * [FreeMarker Template Tester](https://try.freemarker.apache.org/)
 * [Frontend Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
