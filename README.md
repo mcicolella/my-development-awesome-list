@@ -209,6 +209,7 @@
 
 * [Fottuti Geni - Massimo Temporelli](https://storielibere.fm/fottuti-geni/)
 * [Gitbar - Italian Developer Podcast](https://www.gitbar.it/)
+* [IT Governance for CTO](https://open.spotify.com/show/0kfHlz3PUtYdQMsUQvWSWv) by Lorenzo De Francesco
 * [Pensieri in codice](https://www.spreaker.com/show/pensieri-in-codice?s=09)
 * [Pillole di Bit](https://t.co/VvIPPMSepm)
 * [Spaghetti Code](https://www.spaghetticode.online/podcast)
