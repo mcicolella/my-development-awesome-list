@@ -57,11 +57,12 @@
 ## Blogs
 
 * [Antonio Musarra's Blog - The ideal solution for a problem](https://www.dontesta.it/) (ITA-ENG)
+* [Diario di un analista](https://www.diariodiunanalista.it/) (ITA)
 * [Java Boss](https://www.javaboss.it/) (ITA)
 * [Lup Yuen Lee 李立源 Techie and Educator in IoT](https://medium.com/@ly.lee)
 * [My Social Web](https://www.mysocialweb.it/)
 * [Moreware Blog](http://www.moreware.org/wp/)
-* [Programmatori dentro](https://giovannicuccu.wordpress.com/)
+* [Programmatori dentro](https://giovannicuccu.wordpress.com/) (ITA)
 * [theRedCode](https://www.theredcode.it/) (ITA)
 * [The Weekly Dev](https://kevwe.com/weekly)
 
