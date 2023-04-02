@@ -61,6 +61,7 @@
 * [Lup Yuen Lee 李立源 Techie and Educator in IoT](https://medium.com/@ly.lee)
 * [My Social Web](https://www.mysocialweb.it/)
 * [Moreware Blog](http://www.moreware.org/wp/)
+* [Programmatori dentro](https://giovannicuccu.wordpress.com/)
 * [theRedCode](https://www.theredcode.it/) (ITA)
 * [The Weekly Dev](https://kevwe.com/weekly)
 
