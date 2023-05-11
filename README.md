@@ -214,6 +214,7 @@
 * [IT Governance for CTO](https://open.spotify.com/show/0kfHlz3PUtYdQMsUQvWSWv) by Lorenzo De Francesco
 * [Pensieri in codice](https://www.spreaker.com/show/pensieri-in-codice?s=09)
 * [Pillole di Bit](https://t.co/VvIPPMSepm)
+* [PointerPodcast](https://pointerpodcast.it/)
 * [Spaghetti Code](https://www.spaghetticode.online/podcast)
 * [TheVops Talks - Dario Tranchitella](https://www.spreaker.com/show/thevops-talks-dario-tranchitella)
 * [ZeroDays](https://zerodays.podbean.com/)
