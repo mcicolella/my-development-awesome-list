@@ -82,6 +82,7 @@
 ## Calculators
 
 * [Calculators Index](https://www.daycounter.com/Calculators/)
+* [Omni Calculator](https://www.omnicalculator.com/)
 
   
 ## Converters
