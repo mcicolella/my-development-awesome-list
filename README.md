@@ -23,7 +23,7 @@
 - [Git](#git)
 - [Graphics](#graphics)
   - [Icons](#icons) 
-- [IoT](#images)
+- [IoT](#iot)
   - [MQTT](#mqtt)
 - [Kubernetes](#kubernetes)
 - [Libraries](#libraries)
