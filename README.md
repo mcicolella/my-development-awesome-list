@@ -53,6 +53,7 @@
 ## Artificial Intelligence
 
 * [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
+* [ProfAI chat](https://chat.profession.ai/)
 
 
 ## Awesome Lists
