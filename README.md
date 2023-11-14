@@ -10,6 +10,7 @@
 
 - [Algorithms](#algorithms)
 - [APIs](#apis)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Awesome Lists](#awesome-lists)
 - [Blogs](#blogs)
 - [Books](#books)
@@ -27,7 +28,6 @@
   - [MQTT](#mqtt)
 - [Kubernetes](#kubernetes)
 - [Libraries](#libraries)
-- [Machine Learning](#machine-learning)
 - [Playgrounds](#playgrounds)
   - [Frontend](#frontend)
   - [MySQL](#mysql)
@@ -48,6 +48,11 @@
 ## APIs
 
 * [Public APIs](https://github.com/public-apis/public-apis)
+
+
+## Artificial Intelligence
+
+* [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
 
 
 ## Awesome Lists
@@ -172,11 +177,6 @@
 ## Libraries
 
 * [JGraphT](https://jgrapht.org/)
-
-
-## Machine Learning
-
-* [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
 
 
 ## Playgrounds
