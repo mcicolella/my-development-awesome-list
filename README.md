@@ -78,6 +78,7 @@
 
 ### Java
 
+* [Dimitar Makariev](https://www.makariev.com/) (ENG)
 * [Java Boss](https://www.javaboss.it/) (ITA)
 
 
