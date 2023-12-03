@@ -225,6 +225,7 @@
 * [Pillole di Bit](https://t.co/VvIPPMSepm)
 * [PointerPodcast](https://pointerpodcast.it/)
 * [Spaghetti Code](https://www.spaghetticode.online/podcast)
+* [Statfulness - Podcast di statistica](https://open.spotify.com/show/5b6AXuFp70ERXQlAXARWaR) by Paola Tellaroli
 * [TheVops Talks - Dario Tranchitella](https://www.spreaker.com/show/thevops-talks-dario-tranchitella)
 * [ZeroDays](https://zerodays.podbean.com/)
 
