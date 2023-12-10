@@ -25,6 +25,7 @@
 - [Hardware](#hardware)
 - [Git](#git)
 - [Graphics](#graphics)
+  - [Editors](#editors)
   - [Icons](#icons) 
 - [IoT](#iot)
   - [MQTT](#mqtt)
@@ -159,6 +160,12 @@
 * [Startup Stock Photos](https://startupstockphotos.com/)
 * [StockSnap.io](https://stocksnap.io/)
 * [Unsplash](https://unsplash.com/)
+
+
+### Editors  
+
+* [Online Editor SVG](https://deeditor.com/)
+
 
 ### Icons 
 
