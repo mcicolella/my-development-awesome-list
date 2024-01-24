@@ -56,6 +56,7 @@
 ## Artificial Intelligence
 
 * [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
+* [Phind code search engine](https://phind.com)
 * [ProfAI chat](https://chat.profession.ai/)
 
 
