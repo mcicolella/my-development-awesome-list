@@ -225,6 +225,9 @@
 
 ## Podcasts
 
+* [Buongiorno da Edo](https://open.spotify.com/show/4B2I1RTHTS5YkbCYfLCveU) by Edoardo Dusi
+* [DevYourSelf](https://podcasters.spotify.com/pod/show/sofia-fulgido) by Sofia Fulgido
+* [Edicola Cloud](https://open.spotify.com/show/5Bs7fIw4lkuRJAiKMblapo) by Andrea Saltarello e Serena Sensini
 * [Fottuti Geni - Massimo Temporelli](https://storielibere.fm/fottuti-geni/)
 * [Gitbar - Italian Developer Podcast](https://www.gitbar.it/)
 * [IT Governance for CTO](https://open.spotify.com/show/0kfHlz3PUtYdQMsUQvWSWv) by Lorenzo De Francesco
@@ -234,6 +237,7 @@
 * [Spaghetti Code](https://www.spaghetticode.online/podcast)
 * [Statfulness - Podcast di statistica](https://open.spotify.com/show/5b6AXuFp70ERXQlAXARWaR) by Paola Tellaroli
 * [TheVops Talks - Dario Tranchitella](https://www.spreaker.com/show/thevops-talks-dario-tranchitella)
+* [Wannabe De](https://open.spotify.com/show/5xG9vbV8l1TukBk2kNWb3D) by Sofia Baezzato
 * [ZeroDays](https://zerodays.podbean.com/)
 
 
