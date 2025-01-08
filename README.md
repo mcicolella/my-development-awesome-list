@@ -231,6 +231,7 @@
 * [Edicola Cloud](https://open.spotify.com/show/5Bs7fIw4lkuRJAiKMblapo) by Andrea Saltarello e Serena Sensini
 * [Fottuti Geni - Massimo Temporelli](https://storielibere.fm/fottuti-geni/)
 * [Gitbar - Italian Developer Podcast](https://www.gitbar.it/)
+* [Informatica per tutti](https://creators.spotify.com/pod/show/ilcantastorieinformatico8)
 * [IT Governance for CTO](https://open.spotify.com/show/0kfHlz3PUtYdQMsUQvWSWv) by Lorenzo De Francesco
 * [Pensieri in codice](https://www.spreaker.com/show/pensieri-in-codice?s=09)
 * [Pillole di Bit](https://t.co/VvIPPMSepm)
