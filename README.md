@@ -227,6 +227,7 @@
 ## Podcasts
 
 * [Buongiorno da Edo](https://open.spotify.com/show/4B2I1RTHTS5YkbCYfLCveU) by Edoardo Dusi
+* [Concetti di Informatica](https://www.spreaker.com/podcast/concetti-di-informatica-by-emmecilab--6622434) by EmmeCiLab - Mauro Cicolella
 * [DevYourSelf](https://podcasters.spotify.com/pod/show/sofia-fulgido) by Sofia Fulgido
 * [Edicola Cloud](https://open.spotify.com/show/5Bs7fIw4lkuRJAiKMblapo) by Andrea Saltarello e Serena Sensini
 * [Fottuti Geni - Massimo Temporelli](https://storielibere.fm/fottuti-geni/)
