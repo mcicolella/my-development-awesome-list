@@ -10,6 +10,7 @@
 - [Algorithms](#algorithms)
 - [APIs](#apis)
 - [Artificial Intelligence](#artificial-intelligence)
+- [Audio](#audio)
 - [Awesome Lists](#awesome-lists)
 - [Blogs](#blogs)
   - [General](#general)
@@ -25,7 +26,8 @@
 - [Git](#git)
 - [Graphics](#graphics)
   - [Editors](#editors)
-  - [Icons](#icons) 
+  - [Icons](#icons)
+  - [Images](#images)  
 - [IoT](#iot)
   - [MQTT](#mqtt)
 - [Kubernetes](#kubernetes)
@@ -57,6 +59,11 @@
 * [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
 * [Phind code search engine](https://phind.com)
 * [ProfAI chat](https://chat.profession.ai/)
+
+
+## Audio
+
+* [OpenGameArt](https://opengameart.org/)
 
 
 ## Awesome Lists
@@ -173,6 +180,11 @@
 * [3D Icons](https://3dicons.co/)
 * [Streamline](https://www.streamlinehq.com/icons)
 * [Tabler Icons - SVG customizable icons](https://tablericons.com/)
+
+
+### Images  
+
+* [Pexels](https://www.pexels.com/it-it/)
 
 
 ## Hardware
