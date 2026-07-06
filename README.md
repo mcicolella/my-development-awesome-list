@@ -224,6 +224,7 @@
 ### RegEx
 
 * [Online regex tester and debugger](https://regex101.com/)
+* [Regex Tester](https://devbox.tools/utils/regex-tester)
 
 ### TypeScript
 
@@ -273,6 +274,7 @@
 * [Credit card test environment](https://developer.monetaonline.it/it/Ambiente-di-test/Carte-di-Credito)
 * [Crontab Generator](https://crontab-generator.org/)
 * [DeepL](https://www.deepl.com/translator)
+* [DevBox Tools](https://devbox.tools/)
 * [Draw.io](https://www.draw.io/)
 * [FreeFormatter](https://www.freeformatter.com/)
 * [GitHub profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
