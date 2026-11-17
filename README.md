@@ -101,6 +101,7 @@
 
 * [Calculators Index](https://www.daycounter.com/Calculators/)
 * [Omni Calculator](https://www.omnicalculator.com/)
+* [PitchCalc](https://pitchcalc.com/?utm_source=github&utm_medium=github&utm_campaign=mcicolella_my-development-awesome-list) - Free roof pitch, area, rafter, and shingle calculators.
 
   
 ## Converters
